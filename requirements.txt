@@ -1,0 +1,7 @@
+torch
+transformers
+nltk
+numpy
+docx
+Pillow
+python-docx  # For extracting text and images from Word documents
